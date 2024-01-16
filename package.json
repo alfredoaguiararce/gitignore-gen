@@ -1,0 +1,17 @@
+{
+  "name": "gitignore-gen",
+  "version": "1.0.0",
+  "description": "A vs code for generate .gitignore using toptal api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitignore",
+    "vs",
+    "vs",
+    "extension"
+  ],
+  "author": "Alfredo Aguiar Arce",
+  "license": "MIT"
+}
